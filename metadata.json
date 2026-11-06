@@ -1,0 +1,6 @@
+{
+  "name": "KRISHI CONNECT",
+  "description": "AI-Powered Agricultural Market Intelligence & Community Farming Platform. Grow Smart. Sell Better. Earn More.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
